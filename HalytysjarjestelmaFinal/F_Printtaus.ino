@@ -3,5 +3,5 @@ void printtaus(String a, int b, int c, int d){  //Kaikki LCD-näytölle kirjoitt
     lcd.clear(); // Jos d = 1, poistetaan entiset tekstit näytöltä
   }
  lcd.setCursor(b,c);//Mihin kohtaan ja kummalle riville
- lcd.print(a); // Mitä tulostetaan LCD-näytölle, pitää olla heittomerkkien sisällä
+ lcd.print(a); // Mitä tulostetaan LCD-näytölle
 }
