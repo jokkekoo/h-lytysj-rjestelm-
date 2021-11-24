@@ -1,4 +1,4 @@
 # Hälytysjärjestelmä
 OAMK ensimmäinen projekti
 
-Kivijärvi / Kalliokoski / Polojärvi
+Kivijärvi / Kalliokoski / Koivumaa
