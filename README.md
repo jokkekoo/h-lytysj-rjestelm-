@@ -1,2 +1,4 @@
-# hälytysjärjestelmä
-oamk ensimmäinen projekti
+# Hälytysjärjestelmä
+OAMK ensimmäinen projekti
+
+Kivijärvi / Kalliokoski / Polojärvi
